@@ -6,16 +6,6 @@
 <meta name="keywords" content="Où est-ce qu’on bouffe à midi ?">
 <link rel="shortcut icon" type="image/x-icon" href="/bouffe/new_cv/img/favico.png">
 <link rel="stylesheet" type="text/css" href="/bouffe/style.css">
-<script type="text/javascript">
-				var _gaq = _gaq || [];
-				_gaq.push(['_setAccount', 'UA-15185486-2']);
-				_gaq.push(['_trackPageview']);
-				(function() {
-					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-				})();
-			</script>
 </head>
 <body style="background-image:url(/bouffe/img/bg_<?php echo rand(1,26); ?>.jpg), url(/bouffe/new_cv/img/trame.png);" onClick="window.location.reload( true );">
 <div id="wrapper">
